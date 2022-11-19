@@ -12,6 +12,8 @@
 
 ## 机场推荐
 
+**付费机场：**
+
 lime青柠：
 
 6¥/月64G（轻度使用足够）
@@ -23,7 +25,7 @@ lime青柠：
 [注册地址](https://www.lime345.buzz/#/register?code=Zf5K2GS9)
 注册后可试用
 
-alink
+alink：
 
 7¥/月256G 便宜流量多（重度使用）
 
@@ -33,3 +35,15 @@ alink
 
 [注册地址](https://ypso.cc/#/register?code=Nxa5V550)
 注册可试用
+
+efcloud（月抛机场，便宜）：
+
+1¥/月100G
+
+5¥/月1T(1024G)（下载专用）
+
+~~还有每月15/30日有概率会出现0¥/月50G套餐～～
+
+解锁流媒体
+
+[注册地址](https://www.efcloud.cc/#/register?code=PZi7sJn0)
