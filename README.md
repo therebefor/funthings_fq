@@ -8,7 +8,7 @@
 
 资源
 
-一些小工具
+[一些工具](https://github.com/huangcy208/funthings/releases/tag/v0.1)
 
 ## 机场推荐
 
