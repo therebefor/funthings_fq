@@ -4,7 +4,7 @@
 ~~可能有一些神奇的东西~~
 
 ## 存的东西
-[~~网站~~](https://github.com/huangcy208/somethingfun/blob/main/por-site "诶嘿")
+[~~瑟瑟网站~~](https://github.com/huangcy208/somethingfun/blob/main/por-site "诶嘿")
 
 资源
 
