@@ -12,38 +12,38 @@
 
 ## 机场推荐
 
-### 付费机场：
+### lime青柠：
 
-lime青柠：
-
-6¥/月64G（轻度使用足够）
+18￥/季 每月64G（轻度使用足够）
 
 10¥/月128G（基本够用）
 
-解锁主流流媒体（bilibili港澳台，YouTube）
+解锁流媒体（bilibili港澳台，Netflix，巴哈姆特动画疯，YouTube等）
 
-[注册地址](https://www.lime345.buzz/#/register?code=Zf5K2GS9)
+[注册地址](https://limeis.best/#/register?code=Zf5K2GS9)
 注册后可试用
 
-alink：
+### alink（正价机场）：
 
-7¥/月256G 便宜流量多（重度使用）
+21.9￥/季 每月128G 流量够
 
-~~10¥/月512G~~ （下片都不用这么多）
+实际算下来7￥/月
+
+12.9￥/月 256G 很多了
 
 解锁流媒体（bilibili港澳台，巴哈姆特动画疯，Youtube等）
 
-[注册地址](https://ypso.cc/#/register?code=Nxa5V550)
+[注册地址](https://aln.lnaspiring.com/#/register?code=Nxa5V550))
 注册可试用
 
-efcloud（月抛机场，便宜）：
+### efcloud（原月抛现在涨价了）：
 
-1¥/月100G
+9¥/月 350G（很便宜）
 
-5¥/月1T(1024G)（下载专用）
+24¥/月1T(1024G)（下载专用）
 
-~~还有每月15/30日有概率会出现0¥/月50G套餐~~
+20￥ 100G流量包
 
 解锁流媒体
 
-[注册地址](https://www.efcloud.cc/#/register?code=PZi7sJn0)
+[注册地址](https://invite.efshop.cc/#/register?code=TADkJVyo)
